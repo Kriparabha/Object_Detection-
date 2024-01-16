@@ -1,1 +1,3 @@
-# Object_Detection-
+In my final year project, I undertook the exciting challenge of advancing object detection capabilities by harnessing the power of OpenCV (Open Source Computer Vision Library). This project explores innovative techniques and methodologies to improve the accuracy, efficiency, and versatility of object detection in various real-world scenarios.
+
+The primary objective of this project is to leverage OpenCV's extensive set of tools and algorithms to create a robust object detection system. The project involves the utilization of state-of-the-art computer vision techniques, including image processing, feature extraction, and machine learning, to enhance the accuracy of object detection across diverse environments.
